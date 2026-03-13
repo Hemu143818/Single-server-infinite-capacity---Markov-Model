@@ -1,3 +1,4 @@
+# DATE:18.02.26
 # Single server with infinite capacity (M/M/1):(oo/FIFO)
 ```
 # Name:k hemanth yadav 
